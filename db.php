@@ -1,7 +1,7 @@
 <?php
 // db.php : connexion PDO à la base
 
-$host = 'localhost';
+$host = '192.168.56.112';
 $db   = 'covoit';
 $user = 'covoit_user';
 $pass = 'motdepasse';
